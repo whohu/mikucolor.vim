@@ -35,11 +35,11 @@ hi ErrorMsg     guibg=#CC0000 guifg=#FFEE00 gui=NONE
 hi ModeMsg      guibg=#000000 guifg=#E8E8E8 gui=NONE
 hi WildMenu     guibg=#5f5f5f guifg=#FFEE60 gui=NONE
 hi StatusLine   guibg=#1f1f1f guifg=#F0F0F0 gui=NONE
-hi StatusLineNC guibg=#0f0f0f guifg=#eaea3a gui=NONE
+hi StatusLineNC guibg=#0f0f0f guifg=#EAEA3A gui=NONE
 hi VertSplit    guibg=#1f1f1f guifg=#F0F0F0 gui=NONE
 hi Error        guibg=#EE0000 guifg=#FFDD60 gui=NONE
 hi Todo         guibg=#EEE000 guifg=#000000 gui=NONE
-hi Title        guibg=#000000 guifg=#ffffff gui=NONE
+hi Title        guibg=#000000 guifg=#FFFFFF gui=NONE
 hi Question     guibg=#005900 guifg=#40E840 gui=NONE
 hi LineNr       guibg=#000000 guifg=#C3E5E7 gui=NONE
 hi Directory    guibg=#000000 guifg=#D0D0D0 gui=NONE
