@@ -16,7 +16,7 @@ hi Normal       guibg=#000000 guifg=#C0C0C0 gui=NONE
 " Main colors
 hi Constant     guibg=#000000 guifg=#00B8E0 gui=NONE
 hi Identifier   guibg=#000000 guifg=#00B098 gui=NONE
-hi Special      guibg=#000000 guifg=#B899C8 gui=NONE
+hi Special      guibg=#000000 guifg=#bec8d1 gui=NONE
 hi Statement    guibg=#000000 guifg=#E12885 gui=NONE
 hi Preproc      guibg=#000000 guifg=#E12885 gui=NONE
 hi Type         guibg=#000000 guifg=#006699 gui=NONE
