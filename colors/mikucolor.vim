@@ -16,7 +16,7 @@ hi Normal       guibg=#000000 guifg=#C0C0C0 gui=NONE
 " Main colors
 hi Constant     guibg=#000000 guifg=#00B8E0 gui=NONE
 hi Identifier   guibg=#000000 guifg=#00B098 gui=NONE
-hi Special      guibg=#000000 guifg=#B899C8 gui=NONE
+hi Special      guibg=#000000 guifg=#BEC8D1 gui=NONE
 hi Statement    guibg=#000000 guifg=#E12885 gui=NONE
 hi Preproc      guibg=#000000 guifg=#E12885 gui=NONE
 hi Type         guibg=#000000 guifg=#006699 gui=NONE
@@ -37,7 +37,7 @@ hi WildMenu     guibg=#5f5f5f guifg=#FFEE60 gui=NONE
 hi StatusLine   guibg=#1f1f1f guifg=#F0F0F0 gui=NONE
 hi StatusLineNC guibg=#0f0f0f guifg=#EAEA3A gui=NONE
 hi VertSplit    guibg=#1f1f1f guifg=#F0F0F0 gui=NONE
-hi Error        guibg=#EE0000 guifg=#FFDD60 gui=NONE
+hi Error        guibg=#000000 guifg=#E12885 gui=NONE
 hi Todo         guibg=#EEE000 guifg=#000000 gui=NONE
 hi Title        guibg=#000000 guifg=#FFFFFF gui=NONE
 hi Question     guibg=#005900 guifg=#40E840 gui=NONE
