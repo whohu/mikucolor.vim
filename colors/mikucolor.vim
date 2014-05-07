@@ -33,10 +33,10 @@ hi WarningMsg   guibg=#707000 guifg=#FFFF00 gui=NONE
 hi MoreMsg      guibg=#000070 guifg=#00B8E0 gui=NONE
 hi ErrorMsg     guibg=#CC0000 guifg=#FFEE00 gui=NONE
 hi ModeMsg      guibg=#000000 guifg=#E8E8E8 gui=NONE
-hi WildMenu     guibg=#5f5f5f guifg=#FFEE60 gui=NONE
-hi StatusLine   guibg=#1f1f1f guifg=#F0F0F0 gui=NONE
-hi StatusLineNC guibg=#0f0f0f guifg=#EAEA3A gui=NONE
-hi VertSplit    guibg=#1f1f1f guifg=#F0F0F0 gui=NONE
+hi WildMenu     guibg=#5F5F5F guifg=#FFEE60 gui=NONE
+hi StatusLine   guibg=#1F1F1F guifg=#F0F0F0 gui=NONE
+hi StatusLineNC guibg=#0F0F0F guifg=#EAEA3A gui=NONE
+hi VertSplit    guibg=#1F1F1F guifg=#F0F0F0 gui=NONE
 hi Error        guibg=#000000 guifg=#E12885 gui=NONE
 hi Todo         guibg=#EEE000 guifg=#000000 gui=NONE
 hi Title        guibg=#000000 guifg=#FFFFFF gui=NONE
