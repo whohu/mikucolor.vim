@@ -31,7 +31,7 @@ hi IncSearch    guibg=#D05000 guifg=#FFE000 gui=NONE
 " Special colors
 hi WarningMsg   guibg=#707000 guifg=#FFFF00 gui=NONE
 hi MoreMsg      guibg=#000070 guifg=#00B8E0 gui=NONE
-hi ErrorMsg     guibg=#CC0000 guifg=#FFEE00 gui=NONE
+hi ErrorMsg     guibg=#000000 guifg=#E12885 gui=NONE
 hi ModeMsg      guibg=#000000 guifg=#E8E8E8 gui=NONE
 hi WildMenu     guibg=#5F5F5F guifg=#FFEE60 gui=NONE
 hi StatusLine   guibg=#1F1F1F guifg=#F0F0F0 gui=NONE
